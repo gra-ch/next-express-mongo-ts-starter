@@ -58,7 +58,3 @@ The intent of this starter is to be really slim so it's not a nightmare to remov
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for more information.
-
----
-
-Made with ♥ by Grace Cheng
